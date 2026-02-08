@@ -1,0 +1,36 @@
+# Web Framework
+streamlit
+
+# Database
+pymongo
+dnspython
+
+# LLM Framework
+# CRITICAL: langchain-google-genai 4.0+ required for Vertex AI Express Mode support
+langchain>=1.2.0
+langchain-google-genai>=4.2.0
+langchain-openai>=1.1.0
+langchain-community>=0.4.0
+
+# LLM Providers
+google-genai>=1.59.0
+openai>=2.0.0
+
+# Web Search (used by LangChain's DuckDuckGoSearchResults)
+ddgs>=9.10.0
+
+# Google Cloud (Service Account support)
+google-cloud-aiplatform
+google-cloud-bigquery
+google-auth
+
+# Data Processing
+pandas
+numpy
+
+# Environment
+python-dotenv
+
+# Utilities
+tqdm
+pydantic

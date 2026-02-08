@@ -1,0 +1,53 @@
+{
+  "basic_queries": [
+    "How many total orders are in the database?",
+    "What is the total spending across all orders?",
+    "List the top 10 suppliers by order count"
+  ],
+  "time_based_queries": [
+    "How many orders were created in January 2014?",
+    "What was the total spending in fiscal year 2013-2014?",
+    "Which month in 2013 had the most orders?",
+    "Show quarterly spending trends for fiscal year 2014-2015",
+    "How many orders were created in Q1 2013?",
+    "Compare spending between Q1 and Q2 of fiscal year 2013-2014"
+  ],
+  "department_queries": [
+    "Which department spent the most money?",
+    "How many orders did the Department of Corrections place?",
+    "List all departments that ordered IT goods",
+    "What is the average order value by department?",
+    "Show me the top 5 departments by total spending"
+  ],
+  "item_queries": [
+    "What are the top 10 most frequently ordered items?",
+    "What was the most expensive single item purchased?",
+    "How many different items were ordered in total?",
+    "Show me all orders for office supplies",
+    "What items were ordered more than 100 times?"
+  ],
+  "supplier_queries": [
+    "Who are the top 5 suppliers by revenue?",
+    "How many different suppliers are in the database?",
+    "Which supplier has the most orders?",
+    "Show me all orders from Pitney Bowes",
+    "What is the average order value per supplier?"
+  ],
+  "complex_queries": [
+    "Which quarter had the highest spending in fiscal year 2013-2014?",
+    "Show me IT Goods orders over $10,000",
+    "What is the average order value by acquisition type?",
+    "Compare spending between fiscal years 2012-2013 and 2013-2014",
+    "Which department ordered the most IT equipment?",
+    "Show me the spending distribution by acquisition method",
+    "What percentage of orders were for IT goods versus non-IT goods?",
+    "Which fiscal quarter across all years had the highest average order value?"
+  ],
+  "filter_queries": [
+    "Show me all orders from the Department of Water Resources",
+    "Find all orders using WSCA/Coop acquisition method",
+    "List orders where CalCard was used",
+    "Show me all informal competitive acquisitions",
+    "Find all orders from suppliers in zip code 95841"
+  ]
+}
